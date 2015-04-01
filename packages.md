@@ -4,9 +4,7 @@
 * Solarized Color Scheme
 * AlignTab
 * EditorConfig
-* JsFormat
 * SideBarEnhancements
-* SqlBeautifier
 * ChangeQuotes
 * GitGutter
 * LESS
