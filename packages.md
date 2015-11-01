@@ -11,6 +11,7 @@
 * SideBarEnhancements
 * Slugify
 * Solarized Color Scheme
+* SublimeLinter
 * SublimeLinter-flake8
 * SublimeLinter-pep257
 * SublimeLinter-rubocop
