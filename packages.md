@@ -5,7 +5,6 @@
 * EditorConfig
 * FileDiffs
 * GitGutter
-* GitSavvy 
 * JsFormat 
 * LESS
 * Pretty JSON
