@@ -1,6 +1,0 @@
-[
-    { "keys": ["shift+super+q"], "command": "change_quotes" },
-    {
-        "keys": ["shift+super+a"], "command": "align_tab"
-    }
-]
