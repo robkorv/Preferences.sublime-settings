@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"Base Encoder",
+		"ChangeQuotes",
+		"Dictionaries",
+		"EditorConfig",
+		"FileDiffs",
+		"Function Name Display",
+		"GitGutter",
+		"GitSavvy",
+		"hextoASCII",
+		"InsertDate",
+		"Intellitip",
+		"isort",
+		"JsFormat",
+		"LESS",
+		"Package Control",
+		"Pretty JSON",
+		"PyYapf Python Formatter",
+		"SideBarEnhancements",
+		"Slugify",
+		"Solarized Color Scheme",
+		"SqlBeautifier",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pep257",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-shellcheck"
+	]
+}
