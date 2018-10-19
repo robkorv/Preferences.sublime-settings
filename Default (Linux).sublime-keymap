@@ -1,7 +1,3 @@
 [
-    { "keys": ["shift+super+q"], "command": "change_quotes" },
-    {
-        "keys": ["shift+super+a"], "command": "align_tab"
-    },
-    { "keys": ["f5"], "command": "insert_date" }
+    { "keys": ["shift+super+q"], "command": "change_quotes" }
 ]
